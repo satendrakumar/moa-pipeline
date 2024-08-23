@@ -16,7 +16,7 @@ For windows:
 .venv\Scripts\activate
 For Linux:
 source .venv/Script/activate
-
+Blog https://raymondbernard.github.io/posts/open-webui-moa-groq/
 
 Lic is MIT
 
